@@ -30,7 +30,7 @@
     
 
     <!-- Hero Section -->
-    <section class="py-16 md:py-24 px-6">
+    <section class="py-14 md:py-24 px-6">
         <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
                 <h1 class="text-4xl md:text-5xl font-bold text-gray-800 leading-tight">Take Control of Your Finances with <span class="text-blue-600">MoneyWise</span></h1>
