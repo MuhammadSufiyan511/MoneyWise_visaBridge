@@ -125,16 +125,28 @@
       monthlyStats[monthKey] = { month: monthName, income: 0, expenses: 0 };
     }
 
-    transactions.forEach(t => {
-      const monthKey = t.date.slice(0, 7);
-      if (monthlyStats[monthKey]) {
-        if (t.type === 'income') {
-          monthlyStats[monthKey].income += Number(t.amount);
-        } else {
-          monthlyStats[monthKey].expenses += Number(t.amount);
-        }
-      }
-    });
+transactions.forEach(t => {
+  let dateStr;
+
+  // Ensure t.date is a string in YYYY-MM format
+  if (t.date instanceof Date) {
+    dateStr = t.date.toISOString().slice(0, 7); 
+  } else if (typeof t.date === "string") {
+    dateStr = t.date.slice(0, 7);
+  } else {
+    console.warn("Invalid date in transaction:", t);
+    return; // skip invalid entry
+  }
+
+  if (monthlyStats[dateStr]) {
+    if (t.type === 'income') {
+      monthlyStats[dateStr].income += Number(t.amount);
+    } else {
+      monthlyStats[dateStr].expenses += Number(t.amount);
+    }
+  }
+});
+
 
     return Object.values(monthlyStats);
   }
