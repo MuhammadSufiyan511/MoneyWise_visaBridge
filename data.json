@@ -1,0 +1,53 @@
+{
+  "users": {
+    "uid_12345": {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "createdAt": "2025-09-23T10:00:00Z"
+    }
+  },
+  "incomes": {
+    "uid_12345": {
+      "income_1": {
+        "amount": 5000,
+        "category": "Salary",
+        "date": "2025-09-01"
+      },
+      "income_2": {
+        "amount": 200,
+        "category": "Freelance",
+        "date": "2025-09-10"
+      }
+    }
+  },
+  "expenses": {
+    "uid_12345": {
+      "expense_1": {
+        "amount": 1500,
+        "category": "Rent",
+        "date": "2025-09-05"
+      },
+      "expense_2": {
+        "amount": 300,
+        "category": "Groceries",
+        "date": "2025-09-07"
+      }
+    }
+  },
+  "budgets": {
+    "uid_12345": {
+      "budget_1": {
+        "category": "Food",
+        "limit": 500,
+        "spent": 300,
+        "month": "2025-09"
+      },
+      "budget_2": {
+        "category": "Transport",
+        "limit": 200,
+        "spent": 50,
+        "month": "2025-09"
+      }
+    }
+  }
+}

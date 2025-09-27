@@ -1,0 +1,1898 @@
+{
+  "users": [
+    {
+      "id": "mock_user_1",
+      "profile": {
+        "name": "Muhammad Sufiyan",
+        "email": "sufiyan@example.com",
+        "currency": "PKR",
+        "createdAt": "2025-09-27T10:10:49.171Z"
+      },
+      "accounts": [
+        {
+          "id": "acc_mock_user_1_wallet",
+          "name": "Wallet",
+          "type": "cash",
+          "currency": "PKR",
+          "balance": 1000,
+          "createdAt": "2025-09-27T10:10:49.171Z"
+        }
+      ],
+      "transactions": [
+        {
+          "id": "txn_mock_user_1_0079",
+          "amount": 6.21,
+          "type": "expense",
+          "date": "2025-01-04",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-01-04T15:50:00.539Z"
+        },
+        {
+          "id": "txn_mock_user_1_0037",
+          "amount": 20.57,
+          "type": "expense",
+          "date": "2025-01-12",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-01-12T11:57:30.450Z"
+        },
+        {
+          "id": "txn_mock_user_1_0047",
+          "amount": 21.76,
+          "type": "expense",
+          "date": "2025-01-12",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-01-12T10:05:30.253Z"
+        },
+        {
+          "id": "txn_mock_user_1_0001",
+          "amount": 1338.94,
+          "type": "income",
+          "date": "2025-01-13",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-01-13T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_1_0057",
+          "amount": 5.48,
+          "type": "expense",
+          "date": "2025-01-18",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-01-18T11:08:31.869Z"
+        },
+        {
+          "id": "txn_mock_user_1_0089",
+          "amount": 28.3,
+          "type": "expense",
+          "date": "2025-01-18",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-01-18T09:21:42.151Z"
+        },
+        {
+          "id": "txn_mock_user_1_0030",
+          "amount": 34.77,
+          "type": "expense",
+          "date": "2025-01-22",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-01-22T20:24:56.450Z"
+        },
+        {
+          "id": "txn_mock_user_1_0096",
+          "amount": 6.29,
+          "type": "expense",
+          "date": "2025-01-28",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-01-28T01:44:25.069Z"
+        },
+        {
+          "id": "txn_mock_user_1_0063",
+          "amount": 25.66,
+          "type": "expense",
+          "date": "2025-02-01",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-02-01T06:20:53.453Z"
+        },
+        {
+          "id": "txn_mock_user_1_0080",
+          "amount": 43.19,
+          "type": "expense",
+          "date": "2025-02-06",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-02-06T08:11:28.980Z"
+        },
+        {
+          "id": "txn_mock_user_1_0002",
+          "amount": 964.08,
+          "type": "income",
+          "date": "2025-02-08",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-02-08T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_1_0061",
+          "amount": 18.26,
+          "type": "expense",
+          "date": "2025-02-11",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-02-11T23:40:33.809Z"
+        },
+        {
+          "id": "txn_mock_user_1_0018",
+          "amount": 364.69,
+          "type": "income",
+          "date": "2025-02-12",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-02-12T21:53:59.143Z"
+        },
+        {
+          "id": "txn_mock_user_1_0050",
+          "amount": 26.43,
+          "type": "expense",
+          "date": "2025-02-15",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-02-15T20:21:03.820Z"
+        },
+        {
+          "id": "txn_mock_user_1_0026",
+          "amount": 44.29,
+          "type": "expense",
+          "date": "2025-02-24",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-02-24T13:20:48.218Z"
+        },
+        {
+          "id": "txn_mock_user_1_0012",
+          "amount": 473.33,
+          "type": "income",
+          "date": "2025-02-26",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-02-26T14:45:10.521Z"
+        },
+        {
+          "id": "txn_mock_user_1_0014",
+          "amount": 24.85,
+          "type": "expense",
+          "date": "2025-02-27",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-02-27T06:46:02.215Z"
+        },
+        {
+          "id": "txn_mock_user_1_0099",
+          "amount": 2.9,
+          "type": "expense",
+          "date": "2025-02-27",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-02-27T08:40:02.610Z"
+        },
+        {
+          "id": "txn_mock_user_1_0070",
+          "amount": 23.61,
+          "type": "expense",
+          "date": "2025-03-02",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-03-02T03:03:08.702Z"
+        },
+        {
+          "id": "txn_mock_user_1_0029",
+          "amount": 14.23,
+          "type": "expense",
+          "date": "2025-03-04",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-03-04T16:27:11.547Z"
+        },
+        {
+          "id": "txn_mock_user_1_0017",
+          "amount": 3.15,
+          "type": "expense",
+          "date": "2025-03-06",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-03-06T19:23:33.264Z"
+        },
+        {
+          "id": "txn_mock_user_1_0049",
+          "amount": 10.56,
+          "type": "expense",
+          "date": "2025-03-07",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-03-07T22:42:57.171Z"
+        },
+        {
+          "id": "txn_mock_user_1_0053",
+          "amount": 39.19,
+          "type": "expense",
+          "date": "2025-03-09",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-03-09T03:57:17.766Z"
+        },
+        {
+          "id": "txn_mock_user_1_0086",
+          "amount": 174.82,
+          "type": "income",
+          "date": "2025-03-10",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-03-10T06:16:35.198Z"
+        },
+        {
+          "id": "txn_mock_user_1_0023",
+          "amount": 243.59,
+          "type": "income",
+          "date": "2025-03-15",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-03-15T03:16:07.495Z"
+        },
+        {
+          "id": "txn_mock_user_1_0077",
+          "amount": 272.44,
+          "type": "income",
+          "date": "2025-03-16",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-03-16T02:05:21.619Z"
+        },
+        {
+          "id": "txn_mock_user_1_0003",
+          "amount": 1197.3,
+          "type": "income",
+          "date": "2025-03-21",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-03-21T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_1_0011",
+          "amount": 35.08,
+          "type": "expense",
+          "date": "2025-03-22",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-03-22T06:13:36.960Z"
+        },
+        {
+          "id": "txn_mock_user_1_0038",
+          "amount": 36.96,
+          "type": "expense",
+          "date": "2025-03-22",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-03-22T12:46:07.906Z"
+        },
+        {
+          "id": "txn_mock_user_1_0091",
+          "amount": 46.8,
+          "type": "expense",
+          "date": "2025-03-28",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-03-28T11:21:17.794Z"
+        },
+        {
+          "id": "txn_mock_user_1_0094",
+          "amount": 45.84,
+          "type": "expense",
+          "date": "2025-03-28",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-03-28T14:25:08.869Z"
+        },
+        {
+          "id": "txn_mock_user_1_0064",
+          "amount": 29.92,
+          "type": "expense",
+          "date": "2025-03-29",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-03-29T04:37:49.502Z"
+        },
+        {
+          "id": "txn_mock_user_1_0022",
+          "amount": 12.88,
+          "type": "expense",
+          "date": "2025-04-05",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-04-05T23:04:03.190Z"
+        },
+        {
+          "id": "txn_mock_user_1_0060",
+          "amount": 46.68,
+          "type": "expense",
+          "date": "2025-04-12",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-04-12T18:09:34.013Z"
+        },
+        {
+          "id": "txn_mock_user_1_0055",
+          "amount": 15.04,
+          "type": "expense",
+          "date": "2025-04-13",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-04-13T11:34:14.780Z"
+        },
+        {
+          "id": "txn_mock_user_1_0035",
+          "amount": 32.4,
+          "type": "expense",
+          "date": "2025-04-18",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-04-18T17:28:28.301Z"
+        },
+        {
+          "id": "txn_mock_user_1_0004",
+          "amount": 1623.14,
+          "type": "income",
+          "date": "2025-04-22",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-04-22T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_1_0027",
+          "amount": 27.02,
+          "type": "expense",
+          "date": "2025-04-22",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-04-22T23:25:14.611Z"
+        },
+        {
+          "id": "txn_mock_user_1_0085",
+          "amount": 19.1,
+          "type": "expense",
+          "date": "2025-04-25",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-04-25T23:23:23.406Z"
+        },
+        {
+          "id": "txn_mock_user_1_0075",
+          "amount": 32.91,
+          "type": "expense",
+          "date": "2025-04-27",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-04-27T12:38:10.226Z"
+        },
+        {
+          "id": "txn_mock_user_1_0015",
+          "amount": 133.72,
+          "type": "income",
+          "date": "2025-04-30",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-04-30T16:22:09.721Z"
+        },
+        {
+          "id": "txn_mock_user_1_0056",
+          "amount": 17.94,
+          "type": "expense",
+          "date": "2025-05-02",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-05-02T17:00:41.089Z"
+        },
+        {
+          "id": "txn_mock_user_1_0033",
+          "amount": 10.92,
+          "type": "expense",
+          "date": "2025-05-07",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-05-07T02:55:00.677Z"
+        },
+        {
+          "id": "txn_mock_user_1_0074",
+          "amount": 294.36,
+          "type": "income",
+          "date": "2025-05-07",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-05-07T19:34:00.915Z"
+        },
+        {
+          "id": "txn_mock_user_1_0019",
+          "amount": 40.59,
+          "type": "expense",
+          "date": "2025-05-08",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-05-08T10:45:42.492Z"
+        },
+        {
+          "id": "txn_mock_user_1_0072",
+          "amount": 13.23,
+          "type": "expense",
+          "date": "2025-05-12",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-05-12T06:34:15.381Z"
+        },
+        {
+          "id": "txn_mock_user_1_0083",
+          "amount": 42.07,
+          "type": "expense",
+          "date": "2025-05-13",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-05-13T17:19:24.909Z"
+        },
+        {
+          "id": "txn_mock_user_1_0005",
+          "amount": 1883.94,
+          "type": "income",
+          "date": "2025-05-15",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-05-15T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_1_0045",
+          "amount": 3.44,
+          "type": "expense",
+          "date": "2025-05-16",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-05-16T23:32:56.733Z"
+        },
+        {
+          "id": "txn_mock_user_1_0041",
+          "amount": 5.4,
+          "type": "expense",
+          "date": "2025-05-17",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-05-17T23:56:27.168Z"
+        },
+        {
+          "id": "txn_mock_user_1_0071",
+          "amount": 20.94,
+          "type": "expense",
+          "date": "2025-05-21",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-05-21T05:00:16.450Z"
+        },
+        {
+          "id": "txn_mock_user_1_0076",
+          "amount": 25.15,
+          "type": "expense",
+          "date": "2025-05-21",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-05-21T15:58:29.402Z"
+        },
+        {
+          "id": "txn_mock_user_1_0081",
+          "amount": 44.9,
+          "type": "expense",
+          "date": "2025-05-21",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-05-21T19:13:34.581Z"
+        },
+        {
+          "id": "txn_mock_user_1_0067",
+          "amount": 39.19,
+          "type": "expense",
+          "date": "2025-05-25",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-05-25T16:41:25.705Z"
+        },
+        {
+          "id": "txn_mock_user_1_0069",
+          "amount": 16.67,
+          "type": "expense",
+          "date": "2025-05-29",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-05-29T01:17:59.905Z"
+        },
+        {
+          "id": "txn_mock_user_1_0025",
+          "amount": 5.77,
+          "type": "expense",
+          "date": "2025-05-30",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-05-30T12:18:01.090Z"
+        },
+        {
+          "id": "txn_mock_user_1_0046",
+          "amount": 8.09,
+          "type": "expense",
+          "date": "2025-05-30",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-05-30T23:50:07.925Z"
+        },
+        {
+          "id": "txn_mock_user_1_0058",
+          "amount": 16.39,
+          "type": "expense",
+          "date": "2025-06-03",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-06-03T15:53:10.525Z"
+        },
+        {
+          "id": "txn_mock_user_1_0040",
+          "amount": 4.69,
+          "type": "expense",
+          "date": "2025-06-09",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-06-09T20:28:17.138Z"
+        },
+        {
+          "id": "txn_mock_user_1_0100",
+          "amount": 32.02,
+          "type": "expense",
+          "date": "2025-06-17",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-06-17T19:31:05.035Z"
+        },
+        {
+          "id": "txn_mock_user_1_0090",
+          "amount": 129.38,
+          "type": "income",
+          "date": "2025-06-19",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-06-19T23:56:06.815Z"
+        },
+        {
+          "id": "txn_mock_user_1_0006",
+          "amount": 956.73,
+          "type": "income",
+          "date": "2025-06-23",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-06-23T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_1_0042",
+          "amount": 29.25,
+          "type": "expense",
+          "date": "2025-06-27",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-06-27T02:03:59.717Z"
+        },
+        {
+          "id": "txn_mock_user_1_0016",
+          "amount": 17.89,
+          "type": "expense",
+          "date": "2025-06-28",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-06-28T16:46:12.564Z"
+        },
+        {
+          "id": "txn_mock_user_1_0092",
+          "amount": 19,
+          "type": "expense",
+          "date": "2025-07-01",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-07-01T02:22:35.961Z"
+        },
+        {
+          "id": "txn_mock_user_1_0007",
+          "amount": 1514.85,
+          "type": "income",
+          "date": "2025-07-07",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-07-07T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_1_0034",
+          "amount": 22.38,
+          "type": "expense",
+          "date": "2025-07-14",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-07-14T04:25:41.263Z"
+        },
+        {
+          "id": "txn_mock_user_1_0020",
+          "amount": 47.3,
+          "type": "expense",
+          "date": "2025-07-18",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-07-18T20:45:23.684Z"
+        },
+        {
+          "id": "txn_mock_user_1_0098",
+          "amount": 22.32,
+          "type": "expense",
+          "date": "2025-07-19",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-07-19T18:11:58.392Z"
+        },
+        {
+          "id": "txn_mock_user_1_0093",
+          "amount": 38.62,
+          "type": "expense",
+          "date": "2025-07-20",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-07-20T19:18:52.512Z"
+        },
+        {
+          "id": "txn_mock_user_1_0031",
+          "amount": 0.9,
+          "type": "expense",
+          "date": "2025-07-21",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-07-21T17:08:39.772Z"
+        },
+        {
+          "id": "txn_mock_user_1_0059",
+          "amount": 38.18,
+          "type": "expense",
+          "date": "2025-07-23",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-07-23T11:38:45.595Z"
+        },
+        {
+          "id": "txn_mock_user_1_0013",
+          "amount": 6.11,
+          "type": "expense",
+          "date": "2025-07-31",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-07-31T13:22:32.794Z"
+        },
+        {
+          "id": "txn_mock_user_1_0095",
+          "amount": 26.15,
+          "type": "expense",
+          "date": "2025-08-01",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-08-01T15:24:45.134Z"
+        },
+        {
+          "id": "txn_mock_user_1_0036",
+          "amount": 20.35,
+          "type": "expense",
+          "date": "2025-08-05",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-08-05T03:09:34.365Z"
+        },
+        {
+          "id": "txn_mock_user_1_0021",
+          "amount": 6.57,
+          "type": "expense",
+          "date": "2025-08-06",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-08-06T09:04:40.385Z"
+        },
+        {
+          "id": "txn_mock_user_1_0066",
+          "amount": 37.84,
+          "type": "expense",
+          "date": "2025-08-07",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-08-07T09:13:37.839Z"
+        },
+        {
+          "id": "txn_mock_user_1_0051",
+          "amount": 27.72,
+          "type": "expense",
+          "date": "2025-08-12",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-08-12T19:32:03.037Z"
+        },
+        {
+          "id": "txn_mock_user_1_0054",
+          "amount": 19.5,
+          "type": "expense",
+          "date": "2025-08-13",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-08-13T04:20:56.592Z"
+        },
+        {
+          "id": "txn_mock_user_1_0024",
+          "amount": 15.28,
+          "type": "expense",
+          "date": "2025-08-16",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-08-16T12:15:21.213Z"
+        },
+        {
+          "id": "txn_mock_user_1_0044",
+          "amount": 40.98,
+          "type": "expense",
+          "date": "2025-08-16",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-08-16T04:56:33.872Z"
+        },
+        {
+          "id": "txn_mock_user_1_0087",
+          "amount": 6.18,
+          "type": "expense",
+          "date": "2025-08-16",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-08-16T09:45:13.749Z"
+        },
+        {
+          "id": "txn_mock_user_1_0078",
+          "amount": 2.02,
+          "type": "expense",
+          "date": "2025-08-17",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-08-17T08:07:51.968Z"
+        },
+        {
+          "id": "txn_mock_user_1_0048",
+          "amount": 6.52,
+          "type": "expense",
+          "date": "2025-08-18",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-08-18T16:34:38.753Z"
+        },
+        {
+          "id": "txn_mock_user_1_0065",
+          "amount": 31.43,
+          "type": "expense",
+          "date": "2025-08-22",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-08-22T04:45:30.800Z"
+        },
+        {
+          "id": "txn_mock_user_1_0008",
+          "amount": 1122.27,
+          "type": "income",
+          "date": "2025-08-23",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-08-23T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_1_0028",
+          "amount": 26.96,
+          "type": "expense",
+          "date": "2025-08-24",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-08-24T14:02:03.941Z"
+        },
+        {
+          "id": "txn_mock_user_1_0052",
+          "amount": 113.13,
+          "type": "income",
+          "date": "2025-08-25",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-08-25T15:18:21.853Z"
+        },
+        {
+          "id": "txn_mock_user_1_0068",
+          "amount": 9.64,
+          "type": "expense",
+          "date": "2025-08-29",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-08-29T20:30:28.970Z"
+        },
+        {
+          "id": "txn_mock_user_1_0073",
+          "amount": 5.34,
+          "type": "expense",
+          "date": "2025-08-29",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-08-29T13:38:44.831Z"
+        },
+        {
+          "id": "txn_mock_user_1_0082",
+          "amount": 19.08,
+          "type": "expense",
+          "date": "2025-08-29",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-08-29T18:35:24.075Z"
+        },
+        {
+          "id": "txn_mock_user_1_0097",
+          "amount": 27.25,
+          "type": "expense",
+          "date": "2025-08-31",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-08-31T17:14:36.286Z"
+        },
+        {
+          "id": "txn_mock_user_1_0010",
+          "amount": 38.82,
+          "type": "expense",
+          "date": "2025-09-03",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-09-03T17:49:18.807Z"
+        },
+        {
+          "id": "txn_mock_user_1_0062",
+          "amount": 7.69,
+          "type": "expense",
+          "date": "2025-09-04",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-09-04T00:11:49.166Z"
+        },
+        {
+          "id": "txn_mock_user_1_0043",
+          "amount": 9.48,
+          "type": "expense",
+          "date": "2025-09-05",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-09-05T02:56:11.299Z"
+        },
+        {
+          "id": "txn_mock_user_1_0032",
+          "amount": 9.55,
+          "type": "expense",
+          "date": "2025-09-15",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-09-15T00:47:39.452Z"
+        },
+        {
+          "id": "txn_mock_user_1_0039",
+          "amount": 22.98,
+          "type": "expense",
+          "date": "2025-09-16",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-09-16T05:11:29.606Z"
+        },
+        {
+          "id": "txn_mock_user_1_0084",
+          "amount": 39.53,
+          "type": "expense",
+          "date": "2025-09-16",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-09-16T18:51:06.840Z"
+        },
+        {
+          "id": "txn_mock_user_1_0088",
+          "amount": 49.08,
+          "type": "expense",
+          "date": "2025-09-19",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-09-19T06:52:20.523Z"
+        },
+        {
+          "id": "txn_mock_user_1_0009",
+          "amount": 1330.8,
+          "type": "income",
+          "date": "2025-09-24",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-09-24T00:00:01.000Z"
+        }
+      ],
+      "budgets": [
+        {
+          "id": "bud_mock_user_1_1",
+          "category": "Food",
+          "limit": 10000,
+          "periodStart": "2025-09-01",
+          "periodEnd": "2025-09-30",
+          "createdAt": "2025-09-27T10:10:49.171Z"
+        },
+        {
+          "id": "bud_mock_user_1_2",
+          "category": "Rent",
+          "limit": 30000,
+          "periodStart": "2025-09-01",
+          "periodEnd": "2025-09-30",
+          "createdAt": "2025-09-27T10:10:49.171Z"
+        },
+        {
+          "id": "bud_mock_user_1_3",
+          "category": "Entertainment",
+          "limit": 5000,
+          "periodStart": "2025-09-01",
+          "periodEnd": "2025-09-30",
+          "createdAt": "2025-09-27T10:10:49.171Z"
+        }
+      ]
+    },
+    {
+      "id": "mock_user_2",
+      "profile": {
+        "name": "User 2",
+        "email": "user2@example.com",
+        "currency": "PKR",
+        "createdAt": "2025-09-27T10:10:49.172Z"
+      },
+      "accounts": [
+        {
+          "id": "acc_mock_user_2_wallet",
+          "name": "Wallet",
+          "type": "cash",
+          "currency": "PKR",
+          "balance": 1000,
+          "createdAt": "2025-09-27T10:10:49.172Z"
+        }
+      ],
+      "transactions": [
+        {
+          "id": "txn_mock_user_2_0072",
+          "amount": 49.24,
+          "type": "expense",
+          "date": "2025-01-01",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-01-01T23:25:46.350Z"
+        },
+        {
+          "id": "txn_mock_user_2_0011",
+          "amount": 29.29,
+          "type": "expense",
+          "date": "2025-01-02",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-01-02T04:58:22.474Z"
+        },
+        {
+          "id": "txn_mock_user_2_0070",
+          "amount": 4.39,
+          "type": "expense",
+          "date": "2025-01-02",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-01-02T10:48:48.407Z"
+        },
+        {
+          "id": "txn_mock_user_2_0030",
+          "amount": 254.64,
+          "type": "income",
+          "date": "2025-01-09",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-01-09T09:12:05.615Z"
+        },
+        {
+          "id": "txn_mock_user_2_0027",
+          "amount": 49.23,
+          "type": "expense",
+          "date": "2025-01-10",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-01-10T18:58:18.933Z"
+        },
+        {
+          "id": "txn_mock_user_2_0096",
+          "amount": 40.17,
+          "type": "expense",
+          "date": "2025-01-10",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-01-10T13:08:19.420Z"
+        },
+        {
+          "id": "txn_mock_user_2_0001",
+          "amount": 1321.87,
+          "type": "income",
+          "date": "2025-01-13",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-01-13T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_2_0019",
+          "amount": 45.12,
+          "type": "expense",
+          "date": "2025-01-16",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-01-16T15:40:02.115Z"
+        },
+        {
+          "id": "txn_mock_user_2_0043",
+          "amount": 34.34,
+          "type": "expense",
+          "date": "2025-01-16",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-01-16T17:19:06.624Z"
+        },
+        {
+          "id": "txn_mock_user_2_0091",
+          "amount": 34.97,
+          "type": "expense",
+          "date": "2025-01-16",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-01-16T18:18:23.476Z"
+        },
+        {
+          "id": "txn_mock_user_2_0071",
+          "amount": 206.72,
+          "type": "income",
+          "date": "2025-01-18",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-01-18T14:38:06.690Z"
+        },
+        {
+          "id": "txn_mock_user_2_0041",
+          "amount": 41.62,
+          "type": "expense",
+          "date": "2025-01-23",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-01-23T12:19:04.298Z"
+        },
+        {
+          "id": "txn_mock_user_2_0047",
+          "amount": 48.5,
+          "type": "expense",
+          "date": "2025-01-25",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-01-25T23:14:20.562Z"
+        },
+        {
+          "id": "txn_mock_user_2_0050",
+          "amount": 21.04,
+          "type": "expense",
+          "date": "2025-01-29",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-01-29T22:31:07.527Z"
+        },
+        {
+          "id": "txn_mock_user_2_0054",
+          "amount": 130.11,
+          "type": "income",
+          "date": "2025-01-29",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-01-29T17:07:03.616Z"
+        },
+        {
+          "id": "txn_mock_user_2_0022",
+          "amount": 49.56,
+          "type": "expense",
+          "date": "2025-02-11",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-02-11T03:08:37.130Z"
+        },
+        {
+          "id": "txn_mock_user_2_0080",
+          "amount": 25.12,
+          "type": "expense",
+          "date": "2025-02-11",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-02-11T01:26:17.332Z"
+        },
+        {
+          "id": "txn_mock_user_2_0090",
+          "amount": 21.13,
+          "type": "expense",
+          "date": "2025-02-20",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-02-20T12:12:10.061Z"
+        },
+        {
+          "id": "txn_mock_user_2_0025",
+          "amount": 29.77,
+          "type": "expense",
+          "date": "2025-02-21",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-02-21T21:12:24.510Z"
+        },
+        {
+          "id": "txn_mock_user_2_0088",
+          "amount": 17.14,
+          "type": "expense",
+          "date": "2025-02-22",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-02-22T20:25:25.294Z"
+        },
+        {
+          "id": "txn_mock_user_2_0015",
+          "amount": 255.17,
+          "type": "income",
+          "date": "2025-02-23",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-02-23T14:41:38.194Z"
+        },
+        {
+          "id": "txn_mock_user_2_0066",
+          "amount": 19.53,
+          "type": "expense",
+          "date": "2025-02-23",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-02-23T20:24:27.748Z"
+        },
+        {
+          "id": "txn_mock_user_2_0002",
+          "amount": 1949.08,
+          "type": "income",
+          "date": "2025-02-25",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-02-25T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_2_0021",
+          "amount": 8.43,
+          "type": "expense",
+          "date": "2025-03-01",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-03-01T23:09:13.584Z"
+        },
+        {
+          "id": "txn_mock_user_2_0023",
+          "amount": 27.21,
+          "type": "expense",
+          "date": "2025-03-02",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-03-02T01:34:17.113Z"
+        },
+        {
+          "id": "txn_mock_user_2_0079",
+          "amount": 31.52,
+          "type": "expense",
+          "date": "2025-03-06",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-03-06T13:49:30.687Z"
+        },
+        {
+          "id": "txn_mock_user_2_0048",
+          "amount": 36.36,
+          "type": "expense",
+          "date": "2025-03-09",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-03-09T04:23:23.420Z"
+        },
+        {
+          "id": "txn_mock_user_2_0003",
+          "amount": 1185.23,
+          "type": "income",
+          "date": "2025-03-12",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-03-12T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_2_0042",
+          "amount": 178.39,
+          "type": "income",
+          "date": "2025-03-16",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-03-16T15:05:45.599Z"
+        },
+        {
+          "id": "txn_mock_user_2_0063",
+          "amount": 33.15,
+          "type": "expense",
+          "date": "2025-03-16",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-03-16T11:53:47.292Z"
+        },
+        {
+          "id": "txn_mock_user_2_0052",
+          "amount": 5.01,
+          "type": "expense",
+          "date": "2025-03-22",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-03-22T14:52:21.980Z"
+        },
+        {
+          "id": "txn_mock_user_2_0035",
+          "amount": 12.73,
+          "type": "expense",
+          "date": "2025-03-24",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-03-24T23:27:31.081Z"
+        },
+        {
+          "id": "txn_mock_user_2_0020",
+          "amount": 32.25,
+          "type": "expense",
+          "date": "2025-03-27",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-03-27T20:19:21.404Z"
+        },
+        {
+          "id": "txn_mock_user_2_0031",
+          "amount": 22.05,
+          "type": "expense",
+          "date": "2025-03-30",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-03-30T19:45:56.741Z"
+        },
+        {
+          "id": "txn_mock_user_2_0026",
+          "amount": 4.91,
+          "type": "expense",
+          "date": "2025-03-31",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-03-31T14:40:02.147Z"
+        },
+        {
+          "id": "txn_mock_user_2_0046",
+          "amount": 45.42,
+          "type": "expense",
+          "date": "2025-03-31",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-03-31T21:37:36.882Z"
+        },
+        {
+          "id": "txn_mock_user_2_0092",
+          "amount": 36.9,
+          "type": "expense",
+          "date": "2025-04-01",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-04-01T16:27:49.475Z"
+        },
+        {
+          "id": "txn_mock_user_2_0082",
+          "amount": 13.59,
+          "type": "expense",
+          "date": "2025-04-05",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-04-05T21:15:22.875Z"
+        },
+        {
+          "id": "txn_mock_user_2_0073",
+          "amount": 40.9,
+          "type": "expense",
+          "date": "2025-04-06",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-04-06T10:23:20.980Z"
+        },
+        {
+          "id": "txn_mock_user_2_0074",
+          "amount": 3.4,
+          "type": "expense",
+          "date": "2025-04-08",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-04-08T23:29:37.162Z"
+        },
+        {
+          "id": "txn_mock_user_2_0004",
+          "amount": 954.44,
+          "type": "income",
+          "date": "2025-04-10",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-04-10T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_2_0075",
+          "amount": 22.53,
+          "type": "expense",
+          "date": "2025-04-10",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-04-10T09:45:13.942Z"
+        },
+        {
+          "id": "txn_mock_user_2_0062",
+          "amount": 38.67,
+          "type": "expense",
+          "date": "2025-04-11",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-04-11T18:57:17.809Z"
+        },
+        {
+          "id": "txn_mock_user_2_0083",
+          "amount": 34.36,
+          "type": "expense",
+          "date": "2025-04-11",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-04-11T03:19:52.476Z"
+        },
+        {
+          "id": "txn_mock_user_2_0039",
+          "amount": 5.15,
+          "type": "expense",
+          "date": "2025-04-15",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-04-15T16:56:30.021Z"
+        },
+        {
+          "id": "txn_mock_user_2_0077",
+          "amount": 11.91,
+          "type": "expense",
+          "date": "2025-04-15",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-04-15T19:08:52.697Z"
+        },
+        {
+          "id": "txn_mock_user_2_0056",
+          "amount": 11.29,
+          "type": "expense",
+          "date": "2025-04-20",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-04-20T19:57:33.413Z"
+        },
+        {
+          "id": "txn_mock_user_2_0094",
+          "amount": 24.11,
+          "type": "expense",
+          "date": "2025-04-21",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-04-21T10:29:10.683Z"
+        },
+        {
+          "id": "txn_mock_user_2_0099",
+          "amount": 36.77,
+          "type": "expense",
+          "date": "2025-04-21",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-04-21T12:54:31.902Z"
+        },
+        {
+          "id": "txn_mock_user_2_0010",
+          "amount": 41.2,
+          "type": "expense",
+          "date": "2025-04-22",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-04-22T00:59:27.433Z"
+        },
+        {
+          "id": "txn_mock_user_2_0017",
+          "amount": 18.36,
+          "type": "expense",
+          "date": "2025-04-27",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-04-27T18:40:26.712Z"
+        },
+        {
+          "id": "txn_mock_user_2_0087",
+          "amount": 98.48,
+          "type": "income",
+          "date": "2025-04-28",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-04-28T11:47:25.161Z"
+        },
+        {
+          "id": "txn_mock_user_2_0065",
+          "amount": 40.57,
+          "type": "expense",
+          "date": "2025-04-29",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-04-29T14:02:34.129Z"
+        },
+        {
+          "id": "txn_mock_user_2_0084",
+          "amount": 40.91,
+          "type": "expense",
+          "date": "2025-05-03",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-05-03T00:47:20.708Z"
+        },
+        {
+          "id": "txn_mock_user_2_0028",
+          "amount": 20.43,
+          "type": "expense",
+          "date": "2025-05-17",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-05-17T10:07:17.411Z"
+        },
+        {
+          "id": "txn_mock_user_2_0069",
+          "amount": 14.88,
+          "type": "expense",
+          "date": "2025-05-17",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-05-17T17:41:33.605Z"
+        },
+        {
+          "id": "txn_mock_user_2_0038",
+          "amount": 46.83,
+          "type": "expense",
+          "date": "2025-05-20",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-05-20T20:36:32.821Z"
+        },
+        {
+          "id": "txn_mock_user_2_0089",
+          "amount": 8.7,
+          "type": "expense",
+          "date": "2025-05-21",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-05-21T06:48:06.096Z"
+        },
+        {
+          "id": "txn_mock_user_2_0081",
+          "amount": 19.5,
+          "type": "expense",
+          "date": "2025-05-23",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-05-23T14:47:30.984Z"
+        },
+        {
+          "id": "txn_mock_user_2_0005",
+          "amount": 1761.96,
+          "type": "income",
+          "date": "2025-05-25",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-05-25T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_2_0078",
+          "amount": 24.86,
+          "type": "expense",
+          "date": "2025-05-28",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-05-28T06:03:54.518Z"
+        },
+        {
+          "id": "txn_mock_user_2_0051",
+          "amount": 38.46,
+          "type": "expense",
+          "date": "2025-06-04",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-06-04T00:24:24.043Z"
+        },
+        {
+          "id": "txn_mock_user_2_0006",
+          "amount": 1155.24,
+          "type": "income",
+          "date": "2025-06-07",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-06-07T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_2_0036",
+          "amount": 37.6,
+          "type": "expense",
+          "date": "2025-06-09",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-06-09T12:41:36.263Z"
+        },
+        {
+          "id": "txn_mock_user_2_0037",
+          "amount": 32.69,
+          "type": "expense",
+          "date": "2025-06-10",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-06-10T07:28:02.315Z"
+        },
+        {
+          "id": "txn_mock_user_2_0086",
+          "amount": 45.49,
+          "type": "expense",
+          "date": "2025-06-10",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-06-10T20:15:31.222Z"
+        },
+        {
+          "id": "txn_mock_user_2_0057",
+          "amount": 6.8,
+          "type": "expense",
+          "date": "2025-06-16",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-06-16T07:34:59.936Z"
+        },
+        {
+          "id": "txn_mock_user_2_0061",
+          "amount": 47.2,
+          "type": "expense",
+          "date": "2025-06-16",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-06-16T02:28:24.029Z"
+        },
+        {
+          "id": "txn_mock_user_2_0013",
+          "amount": 41.25,
+          "type": "expense",
+          "date": "2025-06-23",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-06-23T17:49:48.303Z"
+        },
+        {
+          "id": "txn_mock_user_2_0040",
+          "amount": 44.88,
+          "type": "expense",
+          "date": "2025-07-01",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-07-01T07:31:50.969Z"
+        },
+        {
+          "id": "txn_mock_user_2_0067",
+          "amount": 38.98,
+          "type": "expense",
+          "date": "2025-07-01",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-07-01T09:16:32.323Z"
+        },
+        {
+          "id": "txn_mock_user_2_0007",
+          "amount": 1848.01,
+          "type": "income",
+          "date": "2025-07-02",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-07-02T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_2_0045",
+          "amount": 40.19,
+          "type": "expense",
+          "date": "2025-07-06",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-07-06T01:39:12.499Z"
+        },
+        {
+          "id": "txn_mock_user_2_0024",
+          "amount": 49.2,
+          "type": "expense",
+          "date": "2025-07-11",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-07-11T21:32:15.322Z"
+        },
+        {
+          "id": "txn_mock_user_2_0095",
+          "amount": 28.32,
+          "type": "expense",
+          "date": "2025-07-13",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-07-13T10:02:19.317Z"
+        },
+        {
+          "id": "txn_mock_user_2_0059",
+          "amount": 8.44,
+          "type": "expense",
+          "date": "2025-07-14",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-07-14T06:53:43.802Z"
+        },
+        {
+          "id": "txn_mock_user_2_0034",
+          "amount": 26.94,
+          "type": "expense",
+          "date": "2025-07-18",
+          "category": "Other",
+          "notes": "Spent on Other",
+          "createdAt": "2025-07-18T08:56:47.388Z"
+        },
+        {
+          "id": "txn_mock_user_2_0049",
+          "amount": 32.24,
+          "type": "expense",
+          "date": "2025-07-21",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-07-21T06:58:55.814Z"
+        },
+        {
+          "id": "txn_mock_user_2_0068",
+          "amount": 8.9,
+          "type": "expense",
+          "date": "2025-07-21",
+          "category": "Shopping",
+          "notes": "Spent on Shopping",
+          "createdAt": "2025-07-21T05:51:10.058Z"
+        },
+        {
+          "id": "txn_mock_user_2_0033",
+          "amount": 405.29,
+          "type": "income",
+          "date": "2025-07-24",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-07-24T21:45:35.170Z"
+        },
+        {
+          "id": "txn_mock_user_2_0060",
+          "amount": 30.71,
+          "type": "expense",
+          "date": "2025-08-05",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-08-05T15:06:52.397Z"
+        },
+        {
+          "id": "txn_mock_user_2_0097",
+          "amount": 46.96,
+          "type": "expense",
+          "date": "2025-08-05",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-08-05T01:41:08.335Z"
+        },
+        {
+          "id": "txn_mock_user_2_0012",
+          "amount": 39.91,
+          "type": "expense",
+          "date": "2025-08-07",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-08-07T03:08:21.902Z"
+        },
+        {
+          "id": "txn_mock_user_2_0100",
+          "amount": 19.03,
+          "type": "expense",
+          "date": "2025-08-07",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-08-07T05:55:55.681Z"
+        },
+        {
+          "id": "txn_mock_user_2_0008",
+          "amount": 1332.66,
+          "type": "income",
+          "date": "2025-08-11",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-08-11T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_2_0018",
+          "amount": 31.16,
+          "type": "expense",
+          "date": "2025-08-15",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-08-15T09:28:59.941Z"
+        },
+        {
+          "id": "txn_mock_user_2_0029",
+          "amount": 26.82,
+          "type": "expense",
+          "date": "2025-08-17",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-08-17T08:45:57.513Z"
+        },
+        {
+          "id": "txn_mock_user_2_0098",
+          "amount": 21.22,
+          "type": "expense",
+          "date": "2025-08-18",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-08-18T03:35:07.364Z"
+        },
+        {
+          "id": "txn_mock_user_2_0014",
+          "amount": 42.16,
+          "type": "expense",
+          "date": "2025-08-20",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-08-20T07:05:19.933Z"
+        },
+        {
+          "id": "txn_mock_user_2_0032",
+          "amount": 48.67,
+          "type": "expense",
+          "date": "2025-08-22",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-08-22T19:49:08.130Z"
+        },
+        {
+          "id": "txn_mock_user_2_0085",
+          "amount": 17.14,
+          "type": "expense",
+          "date": "2025-08-22",
+          "category": "Groceries",
+          "notes": "Spent on Groceries",
+          "createdAt": "2025-08-22T13:24:48.991Z"
+        },
+        {
+          "id": "txn_mock_user_2_0093",
+          "amount": 42.7,
+          "type": "expense",
+          "date": "2025-08-23",
+          "category": "Food",
+          "notes": "Spent on Food",
+          "createdAt": "2025-08-23T08:33:18.169Z"
+        },
+        {
+          "id": "txn_mock_user_2_0064",
+          "amount": 216.07,
+          "type": "income",
+          "date": "2025-08-29",
+          "category": "Other Income",
+          "notes": "Extra income",
+          "createdAt": "2025-08-29T05:18:33.068Z"
+        },
+        {
+          "id": "txn_mock_user_2_0016",
+          "amount": 9.49,
+          "type": "expense",
+          "date": "2025-09-01",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-09-01T20:13:11.211Z"
+        },
+        {
+          "id": "txn_mock_user_2_0053",
+          "amount": 27.15,
+          "type": "expense",
+          "date": "2025-09-02",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-09-02T04:27:07.913Z"
+        },
+        {
+          "id": "txn_mock_user_2_0044",
+          "amount": 5.79,
+          "type": "expense",
+          "date": "2025-09-05",
+          "category": "Transport",
+          "notes": "Spent on Transport",
+          "createdAt": "2025-09-05T10:33:10.682Z"
+        },
+        {
+          "id": "txn_mock_user_2_0076",
+          "amount": 24.3,
+          "type": "expense",
+          "date": "2025-09-05",
+          "category": "Entertainment",
+          "notes": "Spent on Entertainment",
+          "createdAt": "2025-09-05T18:31:04.400Z"
+        },
+        {
+          "id": "txn_mock_user_2_0058",
+          "amount": 7.98,
+          "type": "expense",
+          "date": "2025-09-06",
+          "category": "Utilities",
+          "notes": "Spent on Utilities",
+          "createdAt": "2025-09-06T15:22:11.179Z"
+        },
+        {
+          "id": "txn_mock_user_2_0009",
+          "amount": 1300.31,
+          "type": "income",
+          "date": "2025-09-09",
+          "category": "Salary",
+          "notes": "Monthly salary",
+          "createdAt": "2025-09-09T00:00:01.000Z"
+        },
+        {
+          "id": "txn_mock_user_2_0055",
+          "amount": 22.64,
+          "type": "expense",
+          "date": "2025-09-11",
+          "category": "Health",
+          "notes": "Spent on Health",
+          "createdAt": "2025-09-11T05:35:03.521Z"
+        }
+      ],
+      "budgets": [
+        {
+          "id": "bud_mock_user_2_1",
+          "category": "Food",
+          "limit": 10000,
+          "periodStart": "2025-09-01",
+          "periodEnd": "2025-09-30",
+          "createdAt": "2025-09-27T10:10:49.172Z"
+        },
+        {
+          "id": "bud_mock_user_2_2",
+          "category": "Rent",
+          "limit": 30000,
+          "periodStart": "2025-09-01",
+          "periodEnd": "2025-09-30",
+          "createdAt": "2025-09-27T10:10:49.172Z"
+        },
+        {
+          "id": "bud_mock_user_2_3",
+          "category": "Entertainment",
+          "limit": 5000,
+          "periodStart": "2025-09-01",
+          "periodEnd": "2025-09-30",
+          "createdAt": "2025-09-27T10:10:49.172Z"
+        }
+      ]
+    }
+  ]
+}
